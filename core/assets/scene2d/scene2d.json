@@ -1,0 +1,43 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	bar: { drawable: bar},
+	logo: { drawable: logo},
+	name: { drawable: name},
+	detail: { drawable: detail},
+	base: { drawable: base}
+},
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	about: { up: about-u, checked: about-do, over: about-do},
+//	bin: { up: bin-u, checked: bin-u, over: bin-do},
+	bin: { up: bin-u, over: bin-do},
+	bubble: { up: bubble-u, checked: bubble-do, over: bubble-do},
+//	bubble: { up: bubble-u, over: bubble-do},
+	des: { up: des-u, checked: des-do, over: des-do},
+	fstep: { up: fstep-u, down: fstep-do, over: fstep-do},
+	ham: { up: ham-u, checked: ham-do, over: ham-do},
+	insert: { up: insert-u, checked: insert-do, over: insert-do},
+//	insert: { up: insert-u, over: insert-do},
+	lstep: { up: lstep-u, down: lstep-do, over: lstep-do},
+//	merge: { up: merge-u, checked: merge-u, over: merge-do},
+	merge: { up: merge-u, over: merge-do},
+	count: { up: count-u, over: count-do},
+	nearly: { up: nearly-u, checked: nearly-do, over: nearly-do},
+	nstep: { up: nstep-u, down: nstep-do, over: nstep-do},
+	pause: { up: pause-u, down: pause-do, over: pause-do},
+	play: { up: play-do, checked: pause-do, over: play-do},
+	pseudo: { up: pseudo-u, checked: pseudo-do, over: pseudo-do},
+	pstep: { up: pstep-u, down: pstep-do, over: pstep-do},
+//	quick: { up: quick-u, checked: quick-u, over: quick-do},
+	quick: { up: quick-u, over: quick-do},
+	random: { up: rand-u, checked: rand-do, over: rand-do},
+	repeat: { up: re-u, checked: re-do, over: re-do},
+	rev: { up: rev-u, checked: rev-do, over: rev-do},
+	search: { up: search-u, checked: search-do, over: search-do},
+	select: { up: select-u, checked: select-do, over: select-do},
+//	select: { up: select-u, over: select-do},
+//	sequential: { up: sequential-u, checked: sequential-u, over: sequential-do},
+	sequential: { up: sequential-u, over: sequential-do},
+	sort: { up: sort-u, checked: sort-do, over: sort-do},
+	cmp: { up: vs-u, checked: vs-do, over: vs-do}
+}
+}
