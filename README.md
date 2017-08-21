@@ -7,6 +7,6 @@ This software was written in Java, using libGDX framework, it can illustrate som
 + Counting sort
 
 **Selection sort**
-![Alt Text](http://i.imgur.com/x7ocE0y.gifv)
+![Alt Text](http://i.imgur.com/x7ocE0y.gif)
 
 Author: nhannguyen95.wordpress.com
