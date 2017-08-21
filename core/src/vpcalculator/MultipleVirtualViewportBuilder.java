@@ -1,8 +1,5 @@
 package vpcalculator;
 
-/**
- * Created by apple on 3/12/16.
- */
 public class MultipleVirtualViewportBuilder {
     private float maxHeight;
     private float maxWidth;
