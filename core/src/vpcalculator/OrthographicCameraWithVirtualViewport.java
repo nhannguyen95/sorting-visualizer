@@ -5,9 +5,6 @@ import com.badlogic.gdx.math.Matrix4;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.math.Vector3;
 
-/**
- * Created by apple on 3/12/16.
- */
 public class OrthographicCameraWithVirtualViewport extends OrthographicCamera {
     Vector2 origin = new Vector2();
     Vector3 tmp = new Vector3();
