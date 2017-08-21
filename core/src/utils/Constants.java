@@ -2,9 +2,6 @@ package utils;
 
 import com.badlogic.gdx.graphics.Color;
 
-/**
- * Created by apple on 3/12/16.
- */
 public class Constants {
     public static final float MIN_WIDTH = 1250;
     public static final float MIN_HEIGHT = 700;
