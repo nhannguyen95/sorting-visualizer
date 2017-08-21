@@ -11,9 +11,6 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.utils.Disposable;
 
-/**
- * Created by apple on 3/12/16.
- */
 public class Assets implements Disposable, AssetErrorListener{
     public static final String TAG = Assets.class.getName();
 
