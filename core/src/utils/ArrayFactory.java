@@ -3,9 +3,6 @@ package utils;
 import java.util.ArrayList;
 import java.util.Random;
 
-/**
- * Created by apple on 3/15/16.
- */
 public class ArrayFactory {
 
     public static int[] genArray() {
