@@ -2,9 +2,6 @@ package vpcalculator;
 
 import com.badlogic.gdx.Gdx;
 
-/**
- * Created by apple on 3/12/16.
- */
 public class VirtualViewport {
     float realVirtualHeight;
     float realVirtualWidth;
