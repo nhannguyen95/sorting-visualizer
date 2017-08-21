@@ -12,9 +12,6 @@ import utils.Constants;
 
 import java.util.ArrayList;
 
-/**
- * Created by apple on 3/15/16.
- */
 public class ElementManager {
 
     ArrayList<Element> elems;
