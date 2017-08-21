@@ -21,9 +21,6 @@ import vpcalculator.OrthographicCameraWithVirtualViewport;
 
 import java.util.ArrayList;
 
-/**
- * Created by apple on 3/14/16.
- */
 public class Scene2DManager implements Disposable {
 
     private Stage stage;
