@@ -26,4 +26,4 @@ This software was written in Java, using libGDX framework, it can illustrate som
 
 ![Alt Text](http://i.imgur.com/R2YCfFH.gif)
 
-Author: nhannguyen95.github.io
+Author: [nhannguyen95.github.io](nhannguyen95.github.io)
